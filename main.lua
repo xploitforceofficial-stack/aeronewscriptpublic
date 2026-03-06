@@ -1,4 +1,5 @@
--- Obfuscated by LuauShield (LBI Virtualization v3.1.0)
+-- Obfuscated by LuauShield https://luaushield.tuffgv.my.id
+-- do not skid XD
 
 local _0xDummy = 0
 for i=1, 50 do _0xDummy = _0xDummy + i end
